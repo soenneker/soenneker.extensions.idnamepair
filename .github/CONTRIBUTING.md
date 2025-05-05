@@ -1,4 +1,4 @@
-# Contributing to Soenneker.Extensions.IdNamePair
+﻿# Contributing to Soenneker.Extensions.IdNamePair
 
 We're excited that you're interested in contributing!
 
